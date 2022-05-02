@@ -1,0 +1,15 @@
+.bg-one{
+    background-color: aqua;
+    border:2px solid blue;
+    padding: 20;
+}
+.bg-two{
+    background-color: burlywood;
+    border:2px solid yellowgreen;
+    padding: 20;
+}
+.bg-three{
+    background-color: blueviolet;
+    border:2px solid palevioletred;
+    padding: 20;
+}
